@@ -166,6 +166,6 @@
 
 	"Displaystyle": {
 		"prefix": "dp",
-		"body": "\\displaystyle"
+		"body": "\\displaystyle $0"
 	}
 }
