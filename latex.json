@@ -80,7 +80,7 @@
 		]
 	},
 
-	"Lamma":{
+	"Lemma":{
 		"prefix": "lmm",
 		"body": [
 			"\\begin{lemma}    \\label{lmm: $1}",
