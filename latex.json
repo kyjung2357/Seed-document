@@ -210,11 +210,11 @@
 
 	"Real numbers": {
 		"prefix": "Rn",
-		"body": "\\mathbb{R}${1:^{n}} $0" 
+		"body": "\\mathbb{R}$0" 
 	},
 
 	"Complex numbers": {
 		"prefix": "Cn",
-		"body": "\\mathbb{C}${1:^{n}} $0" 
+		"body": "\\mathbb{C}$0" 
 	}
 }
