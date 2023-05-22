@@ -205,7 +205,7 @@
 	
 	"sequence": {
 		"prefix": "sq",
-		"body": "\\left\\lbrace $1 \\right\\rbrace_{$2}^{@3} $0" 
+		"body": "\\left\\lbrace $1 \\right\\rbrace_{$2}^{$3} $0" 
 	},
 
 	"Real numbers": {
