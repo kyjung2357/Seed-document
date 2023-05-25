@@ -17,7 +17,8 @@
 		"body": [
 			"\\begin{equation*}",
 			"    $0",
-			"\\end{equation*}"
+			"\\end{equation*}",
+			""
 			]
 	},
 
