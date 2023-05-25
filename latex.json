@@ -26,7 +26,8 @@
 		"body": [
 			"\\begin{equation}    \\label{eq: $1}",
 			"    $0",
-			"\\end{equation}"
+			"\\end{equation}",
+			""
 			]
 	},
 
@@ -39,6 +40,7 @@
 			"    &${4:=} $5   \\\\\\",
 			"    &${6:=} $7",
 			"\\end{align*}",
+			"",
 			"$0"
 		]
 	},
@@ -52,18 +54,28 @@
 			"    &${5:=} $6    \\label{ag: $7}    \\\\\\",
 			"    &${8:=} $9    \\label{ag: $10}  ",
 			"\\end{align}",
+			"",
 			"$0"
 		]
 	},
 
+	"Definition":{
+		"prefix": "def",
+		"body": [
+			"\\begin{definition}    \\label{def: $1}",
+			"    $0",
+			"\\end{definition}",
+			""
+		]
+	},
+	
 	"Theorem":{
 		"prefix": "thm",
 		"body": [
 			"\\begin{theorem}    \\label{thm: $1}",
-			"    $2",
+			"    $0",
 			"\\end{theorem}",
-			"",
-			"$0"
+			""
 		]
 	},
 
@@ -71,10 +83,9 @@
 		"prefix": "prop",
 		"body": [
 			"\\begin{proposition}    \\label{prop: $1}",
-			"    $2",
+			"    $0",
 			"\\end{proposition}",
-			"",
-			"$0"
+			""
 		]
 	},
 
@@ -82,10 +93,9 @@
 		"prefix": "lmm",
 		"body": [
 			"\\begin{lemma}    \\label{lmm: $1}",
-			"    $2",
+			"    $0",
 			"\\end{lemma}",
-			"",
-			"$0"
+			""
 		]
 	},
 
@@ -93,10 +103,9 @@
 		"prefix": "crl",
 		"body": [
 			"\\begin{corollary}    \\label{crl: $1}",
-			"    $2",
+			"    $0",
 			"\\end{corollary}",
-			"",
-			"$0"
+			""
 		]
 	},
 
@@ -104,7 +113,7 @@
 		"prefix": "pf",
 		"body": [
 			"\\begin{proof}",
-			"    $1",
+			"    $0",
 			"\\end{proof}"
 		]
 	},
