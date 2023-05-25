@@ -16,9 +16,8 @@
 		"prefix": "eq",
 		"body": [
 			"\\begin{equation*}",
-			"    $1",
-			"\\end{equation*}",
-			"$0"
+			"    $0",
+			"\\end{equation*}"
 			]
 	},
 
@@ -26,9 +25,8 @@
 		"prefix": "eqn",
 		"body": [
 			"\\begin{equation}    \\label{eq: $1}",
-			"    $2",
-			"\\end{equation}",
-			"$0"
+			"    $0",
+			"\\end{equation}"
 			]
 	},
 
