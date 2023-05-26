@@ -217,12 +217,12 @@
 	},
 
 	"Real numbers": {
-		"prefix": "Rn",
+		"prefix": "R",
 		"body": "\\mathbb{R}$0" 
 	},
 
 	"Complex numbers": {
-		"prefix": "Cn",
+		"prefix": "C",
 		"body": "\\mathbb{C}$0" 
 	}
 }
