@@ -1,0 +1,27 @@
+{ // Used Extensions: 
+  // 'Atom One Dark Theme', 'latex-workshop', 'Todo Tree', 'vscode-ace-jump'
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.minimap.enabled": false,
+    "latex-workshop.synctex.afterBuild.enabled": true,
+    "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+    "editor.wordWrap": "on",
+    "aceJump.finder.pattern": "[ ,-.{_(\"'<\\[\t\\\\$]",
+    "aceJump.scroll.mode": "none",
+    "editor.inlineSuggest.enabled": true,
+    "todo-tree.filtering.includeGlobs": [
+        "**/*.tex",
+        "**/*.py",
+        "**/*.ipynb"
+    ],
+    "todo-tree.regex.regex": "((//|#|%|<!--|;|/\\*|^)\\s*($TAGS)|^\\s*- \\[ \\])",
+    "todo-tree.highlights.useColourScheme": true,
+    "todo-tree.general.tags": [
+      "BUG",
+      "HACK",
+      "TODO",
+      "OKAY",
+      "NOTE",
+      "FIXME",
+      "EDIT"
+    ]
+}
