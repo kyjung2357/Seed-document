@@ -12,6 +12,7 @@
 \usepackage{amsmath}
 
 \newcommand\innerprd[1][.5]{\mathbin{\vcenter{\hbox{\scalebox{#1}{$\bullet$}}}}}
+\newcommand\ntsb[3]{\makebox[#1cm][c]{$\overset{#2}{#3}$}}
 \newtheorem{theorem}{Theorem}[section]
 \newtheorem{lemma}[theorem]{Lemma}
 \newtheorem{proposition}[theorem]{Proposition}
@@ -57,12 +58,14 @@ In this section, we provide some examples for LaTex.
 
 \subsection{Code Example}
 
-\noindent I prefer to use $\innerprd$ for inner products since is bigger than $\cdot$.
+\noindent I prefer to use `'$\innerprd$' for inner products since is bigger than `'$\cdot$'.
 
 \noindent Here, I provide some integrations:
 \begin{equation*} 
-     \dashint, \quad \ddashint, \quad \Xint\circlearrowright, \quad \Xint\circlearrowleft,\quad  \Xint\subset, \quad \Xint\infty.
+    \dashint, \quad \ddashint, \quad \Xint\circlearrowright, \quad \Xint\circlearrowleft,\quad  \Xint\subset, \quad \Xint\infty.
 \end{equation*}
+
+\noindent Use the new command `nstb' to note on symbols, for example, $\ntsb{0.5}{?}{=}$, $\ntsb{0.5}{(1.1)}{\leq}$. 
 
 \noindent As for citation, 
 Also, you can refer to \cite{2010_Evans} in the bibtex file.
