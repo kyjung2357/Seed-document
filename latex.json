@@ -224,5 +224,31 @@
 	"Complex numbers": {
 		"prefix": "C",
 		"body": "\\mathbb{C}$0" 
+	},
+	
+	"enumerate Roman numbers": {
+		"prefix": "enrm",
+		"body": [
+			"\\begin{enumerate}[label=(\\roman*)]",
+			"    \\rm\\item $1",
+			"    \\rm\\item $2",
+			"    \\rm\\item $3",
+			"\\end{enumerate}",
+			"",
+			"$0"
+		]
+	},
+	
+	"enumerate Alphbetnumbers": {
+		"prefix": "enap",
+		"body": [
+			"\\begin{enumerate}[label=(\\alph*)]",
+			"    \\rm\\item $1",
+			"    \\rm\\item $2",
+			"    \\rm\\item $3",
+			"\\end{enumerate}",
+			"",
+			"$0"
+		]
 	}
 }
