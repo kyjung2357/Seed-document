@@ -1,6 +1,13 @@
 # A 30-Year Journey: The Duration of Using LaTeX
 
+
 This repository was made for the lecture dealing with LaTeX and Visual Studio Code.
+Made by 
+- 정기엽(Jung, Kiyuob), Department of Mathematics, Michigan State University, kyjung@msu.edu
+- 권기웅(Kwon, Kiwoong), Department of Mathematics, Kyungpook National University, kwkwon@knu.ac.kr
+
+## Homepage
+
 Here, the homepage is as follows:
 
 https://sites.google.com/view/a-30-year-journey
