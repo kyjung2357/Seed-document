@@ -10,10 +10,6 @@ thereby promoting efficient workflows and collaboration with peers. Lastly, the
 seminar shares four powerful tools – GitHub Copilot, JabRef, Mathpix, and
 ChatGPT – each carefully selected to streamline your work processes.
 
-## Made by 
-- 정기엽(Jung, Kiyuob), Department of Mathematics, Michigan State University, kyjung@msu.edu
-- 권기웅(Kwon, Kiwoong), Department of Mathematics, Kyungpook National University, kwkwon@knu.ac.kr
-
 ## Homepage link
 [Click Here](https://sites.google.com/view/a-30-year-journey)
 
@@ -23,3 +19,7 @@ ChatGPT – each carefully selected to streamline your work processes.
 - [keybindings.json](https://github.com/kyjung2357/Seed-document/blob/main/keybindings.json): This is the shortcut configuration file covered in Section 2.1.1.
 - [latex.json](https://github.com/kyjung2357/Seed-document/blob/main/latex.json): Basic User Snippets. (User Snippets are learned in Section 2.1.5.)
 - [settings.json](https://github.com/kyjung2357/Seed-document/blob/main/settings.json): This is the configuration file covered in Section 2.1.1.
+
+## Made by 
+- 정기엽(Jung, Kiyuob), Department of Mathematics, Michigan State University, kyjung@msu.edu
+- 권기웅(Kwon, Kiwoong), Department of Mathematics, Kyungpook National University, kwkwon@knu.ac.kr
