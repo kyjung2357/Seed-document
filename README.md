@@ -17,4 +17,4 @@ https://sites.google.com/view/a-30-year-journey
 - **Check document.tex**: If this file is compiled well, the installation is complete. (Compiling is learned in Section 2.1.)
 - **keybindings.json**: This is the shortcut configuration file covered in Section 2.1.1.
 - **latex.json**: Basic User Snippets. (User Snippets are learned in Section 2.1.5.)
-- **settings.json**: This is the configuration file covered in Section 2.1.1.
+- [settings.json](https://github.com/kyjung2357/Seed-document/blob/main/settings.json): This is the configuration file covered in Section 2.1.1.
