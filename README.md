@@ -6,11 +6,9 @@ Made by
 - 정기엽(Jung, Kiyuob), Department of Mathematics, Michigan State University, kyjung@msu.edu
 - 권기웅(Kwon, Kiwoong), Department of Mathematics, Kyungpook National University, kwkwon@knu.ac.kr
 
-## Homepage
+## Homepage link
 
-Here, the homepage is as follows:
-
-https://sites.google.com/view/a-30-year-journey
+[Click Here](https://sites.google.com/view/a-30-year-journey)
 
 ## File description
 - [Seed document](https://github.com/kyjung2357/Seed-document/tree/main/Seed%20document): This folder contains basic files to start document work. To compile Seed document.tex successfully, you need to install the 'bookmark' and 'enumitem' packages. We refer to Step 9 and Step 10 in Section 1.1 for more information.
