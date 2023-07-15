@@ -10,8 +10,9 @@ thereby promoting efficient workflows and collaboration with peers. Lastly, the
 seminar shares four powerful tools – GitHub Copilot, JabRef, Mathpix, and
 ChatGPT – each carefully selected to streamline your work processes.
 
-## Homepage link
-[Click Here](https://sites.google.com/view/a-30-year-journey)
+## Links
+[Homepage Link](https://sites.google.com/view/a-30-year-journey)
+[YouTube Link](https://youtube.com/playlist?list=PLEu38-PC5GV-_dV2lY6R6qT72RnJQc2wd)
 
 ## File description
 - [Seed document](https://github.com/kyjung2357/Seed-document/tree/main/Seed%20document): This folder contains basic files to start document work. To compile Seed document.tex successfully, you need to install the 'bookmark' and 'enumitem' packages. We refer to Step 9 and Step 10 in Section 1.1 for more information.
