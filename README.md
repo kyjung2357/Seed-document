@@ -10,12 +10,11 @@ thereby promoting efficient workflows and collaboration with peers. Lastly, the
 seminar shares four powerful tools – GitHub Copilot, JabRef, Mathpix, and
 ChatGPT – each carefully selected to streamline your work processes.
 
-Made by 
+## Made by 
 - 정기엽(Jung, Kiyuob), Department of Mathematics, Michigan State University, kyjung@msu.edu
 - 권기웅(Kwon, Kiwoong), Department of Mathematics, Kyungpook National University, kwkwon@knu.ac.kr
 
 ## Homepage link
-
 [Click Here](https://sites.google.com/view/a-30-year-journey)
 
 ## File description
