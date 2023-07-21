@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.6)  21 JUL 2023 16:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.6)  21 JUL 2023 16:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -117,6 +117,11 @@ Underfull \hbox (badness 3690) in paragraph at lines 15--15
 [][]\OT1/cmr/m/n/9 Department of Math-e-mat-ics, Kyung-pook Na-tional Uni-ver-sity, Daegu, 41566, Re-pub-lic of Ko-rea, E-
  []
 
+
+Overfull \hbox (1068.12679pt too wide) in paragraph at lines 22--23
+[]\OT1/cmr/m/n/10.95 Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!!Conflict!! 
+ []
+
 [1
 
 {C:/Users/KIYUOB/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Check document.aux) ) 
@@ -127,9 +132,9 @@ Here is how much of TeX's memory you used:
  21489 multiletter control sequences out of 15000+600000
  517211 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,62p,266b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,62p,431b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\KIYUOB\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\KIYUOB\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk><C:/Users/KIYUOB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/KIYUOB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/KIYUOB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/KIYUOB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on "Check document.pdf" (1 page, 63859 bytes).
+Output written on "Check document.pdf" (1 page, 64420 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
