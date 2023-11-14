@@ -1,4 +1,5 @@
 {	// Made by Kiyuob Jung (email: kyjung2357@gmail.com)
+	// 2023.11.14
 	// Place your snippets for latex here. Each snippet is defined under a snippet name and has a prefix, body and 
 	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
 	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
@@ -188,12 +189,12 @@
 
 	"color box": {
 		"prefix": "cb",
-		"body": "\\colorbox{yellow}{$1}$0" 
+		"body": "\\colorbox{${1:yellow}}{$2}$0" 
 	},
 
 	"color text": {
 		"prefix": "ct",
-		"body": "\\textcolor{green}{$1}$0"
+		"body": "\\textcolor{${1:blue}}{$2}$0"
 	},
 
 	"absolute value": {
@@ -224,6 +225,16 @@
 	"Complex numbers": {
 		"prefix": "C",
 		"body": "\\mathbb{C}$0" 
+	},
+
+	"Natural numbers": {
+		"prefix": "N",
+		"body": "\\mathbb{N}$0" 
+	},
+
+	"Integers": {
+		"prefix": "Z",
+		"body": "\\mathbb{Z}$0" 
 	},
 	
 	"enumerate Roman numbers": {

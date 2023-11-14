@@ -50,5 +50,10 @@
         "key": "ctrl+shift+alt+m",
         "command": "latex-workshop.toggleMathPreviewPanel",
         "when": "!config.latex-workshop.bind.altKeymap.enabled && editorLangId =~ /^latex$|^latex-expl3$|^rsweave$|^jlweave$|^pweave$/"
+    },
+    {
+        "key": "ctrl+alt+j",
+        "command": "-latex-workshop.synctex",
+        "when": "editorTextFocus && !config.latex-workshop.bind.altKeymap.enabled && !virtualWorkspace && editorLangId =~ /^latex$|^latex-expl3$|^doctex$/"
     }
 ]
