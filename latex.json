@@ -241,9 +241,9 @@
 		"prefix": "enrm",
 		"body": [
 			"\\begin{enumerate}[label=\\upshape(\\roman*)]",
-			"    \\rm\\item $1",
-			"    \\rm\\item $2",
-			"    \\rm\\item $3",
+			"    \\item $1",
+			"    \\item $2",
+			"    \\item $3",
 			"\\end{enumerate}",
 			"",
 			"$0"
