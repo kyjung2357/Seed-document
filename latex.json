@@ -250,13 +250,26 @@
 		]
 	},
 	
-	"enumerate Alphbetnumbers": {
+	"enumerate Alphabet numbers": {
 		"prefix": "enap",
 		"body": [
 			"\\begin{enumerate}[label=\\upshape(\\alph*)]",
 			"    \\item $1",
 			"    \\item $2",
 			"    \\item $3",
+			"\\end{enumerate}",
+			"",
+			"$0"
+		]
+	},
+	
+	"enumerate Alphabet and Arabic numbers": {
+		"prefix": "enaan",
+		"body": [
+			"\\begin{enumerate}[label=\\upshape(${1:A}\\arabic*)]",
+			"    \\item $2",
+			"    \\item $3",
+			"    \\item $4",
 			"\\end{enumerate}",
 			"",
 			"$0"
