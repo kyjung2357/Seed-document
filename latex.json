@@ -284,10 +284,11 @@
 			"    	\\begin{aligned}",
 			"    		$2 &= $3 & &\\text{in } ${4:\\Omega}, \\\\\\",
 			"    		$5 &= $6 & &\\text{on } ${7:\\partial \\Omega}, \\\\\\",
-			"    		$8 &= $9 & &\\text{on } ${10:\\partial \\Omega}{$11:,} ",
+			"    		$8 &= $9 & &\\text{on } ${10:\\partial \\Omega}, ",
 			"    	\\end{aligned}",
 			"	\\right.",
 			"\\end{equation}"
+			"$0"
 		]
 	}
 }
