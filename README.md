@@ -22,5 +22,5 @@ ChatGPT – each carefully selected to streamline your work processes.
 - [settings.json](https://github.com/kyjung2357/Seed-document/blob/main/settings.json): This is the configuration file covered in Section 2.1.1.
 
 ## Made by 
-- 정기엽(Jung, Kiyuob), Department of Mathematics, Michigan State University, kyjung@msu.edu
+- 정기엽(Jung, Kiyuob), Department of Mathematics, Michigan State University, kyjung@msu.edu, [homepage](https://sites.google.com/view/kiyuob-jung)
 - 권기웅(Kwon, Kiwoong), Department of Mathematics, Kyungpook National University, kwkwon@knu.ac.kr
